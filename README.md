@@ -1,7 +1,6 @@
 # spa-testing
-`npm install` awel 7aga
-
 Server is created using Express
+- `npm i express` to install Express
 - `node server.js` to run the server
 
 <div align="center"><i>server.js</i></div>
