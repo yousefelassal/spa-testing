@@ -1,4 +1,4 @@
-# spa-testing
+# Single-page application testing
 Server is created using Express
 - `npm i express` to install Express
 - `node server.js` to run the server
