@@ -1,0 +1,7 @@
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# Ignore the node_modules folder
+node_modules/
