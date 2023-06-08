@@ -137,7 +137,10 @@ export default class extends AbstractView {
     }
 }
 ```
-- import the abstract class
+- import the abstract (parent) class and extend it
 - set the title inside the constructor 
-- place the html
+- override the getHtml method by placing the html
+
+<br>
+<div align="right"><h4>clone the repository and <code>npm install</code> to test it</h4></div>
 
